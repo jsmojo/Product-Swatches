@@ -1,6 +1,6 @@
-# Product-Swatches
+# Product-Swatches  [![Build Status](https://travis-ci.org/jsmojo/Product-Swatches.svg?branch=master)](https://travis-ci.org/jsmojo/Product-Swatches)
 
-[![Build Status](https://travis-ci.org/jsmojo/Product-Swatches.svg?branch=master)](https://travis-ci.org/jsmojo/Product-Swatches)
+
 
 
 [Demo Link](https://phillip-productswatches.herokuapp.com/ "Demo Link")
