@@ -1,6 +1,6 @@
-# before_script:
-#  - npm install; gulp
-# script: gulp test
+before_script:
+  - npm install -g gulp
+script: gulp test
 language: node_js
 env:
   - PORT=7777
