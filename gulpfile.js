@@ -49,7 +49,7 @@ gulp.task('html', function() {
     .pipe(connect.reload());
 });
 
-gulp.task('test',()=>{
+gulp.task('test',function(){
 	require('./test.js');
 })
 
