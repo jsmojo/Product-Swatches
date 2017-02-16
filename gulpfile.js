@@ -49,6 +49,10 @@ gulp.task('html', function() {
     .pipe(connect.reload());
 });
 
+gulp.task('test',()=>{
+	require('./test.js');
+})
+
 gulp.task('img', function() {
     gulp.src(config.paths.img)
     .pipe(gulp.dest(config.paths.dist + '/images'));
@@ -88,5 +92,5 @@ gulp.task('watch', function () {
     gulp.watch(config.paths.img, ['img']);
 });
 
-gulp.task('default', ['html', 'ts', 'less', 'img', 'open', 'watch']);
+gulp.task('default', ['html', 'test', 'ts', 'less', 'img', 'open', 'watch']);
 
