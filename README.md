@@ -3,7 +3,7 @@
 
 ## Demo
 
-[Demo Link](https://phillip-productswatches.herokuapp.com/ "https://phillip-productswatches.herokuapp.com/")
+[https://phillip-productswatches.herokuapp.com/](https://phillip-productswatches.herokuapp.com/ "Demo Link")
 
 
 ## Installing
