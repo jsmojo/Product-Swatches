@@ -9,7 +9,7 @@
 ## Installing
 
 ```
-$ git clone https://github.com/jsmojo/Product-Swatches/.git
+$ git clone https://github.com/jsmojo/Product-Swatches/
 ```
 
 ```
