@@ -13,6 +13,10 @@ $ git clone https://github.com/jsmojo/Product-Swatches/
 ```
 
 ```
+$ cd Product-Swatches 
+```
+
+```
 $ npm install 
 ```
 
